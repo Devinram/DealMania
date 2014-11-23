@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="right">
+
+    <TextView
+        android:id="@+id/coupon_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textSize="11sp"
+        android:text=""
+        android:layout_gravity="left" />
+
+    <TextView
+        android:id="@+id/accepted_users"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textSize="11sp"
+        android:text=""
+        android:layout_marginTop="5sp"
+        android:layout_gravity="left" />
+
+    <TextView
+        android:id="@+id/remaining_users"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textSize="11sp"
+        android:text=""
+        android:layout_marginTop="5sp"
+        android:layout_gravity="left" />
+
+    <TextView
+        android:id="@+id/shared_person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textSize="11sp"
+        android:text=""
+        android:layout_marginTop="5sp"
+        android:layout_gravity="left" />
+
+    <Button
+        android:id="@+id/btn_avail_coupon"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp" android:textSize="11sp"
+        android:text="Yes, I avail"
+        android:background="@color/green"
+        android:textColor="@color/white"
+        android:layout_marginRight="15sp"
+        android:layout_gravity="right"
+        android:layout_marginBottom="5sp" />
+
+</LinearLayout>
+
