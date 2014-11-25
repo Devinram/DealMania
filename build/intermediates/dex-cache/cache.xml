@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\AndroidStudioProjects\DealMania\app\build\intermediates\pre-dexed\debug\ibmcloudcode-3a544062372a415513047bd71361c2c60c3e484e.jar"
+        jar="C:\AndroidStudioProjects\DealMania\app\libs\ibmcloudcode.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a8f2b6877edfa1727f6efb10e824f7a4cdcd59cd"/>
+    <item
+        dex="C:\AndroidStudioProjects\DealMania\app\build\intermediates\pre-dexed\debug\ibmfilesync-7802d68f11e4a9468af651ace2167269cd872fd7.jar"
+        jar="C:\AndroidStudioProjects\DealMania\app\libs\ibmfilesync.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="831ca50c54f6d01da4ccbc2f037fae7dc0064c6b"/>
+    <item
+        dex="C:\AndroidStudioProjects\DealMania\app\build\intermediates\pre-dexed\debug\ibmdata-482e3ddeac4d36093e5eeff76e443585a79dde08.jar"
+        jar="C:\AndroidStudioProjects\DealMania\app\libs\ibmdata.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57071916e547420bedf8e0c762c8c4247063f979"/>
+    <item
+        dex="C:\AndroidStudioProjects\DealMania\app\build\intermediates\pre-dexed\debug\ibmlocation-b21e417b46f8ebdad02b502aadf41895cc91d24a.jar"
+        jar="C:\AndroidStudioProjects\DealMania\app\libs\ibmlocation.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="070026cc28330ef8ead31605ff368bb8d5999045"/>
+    <item
+        dex="C:\AndroidStudioProjects\DealMania\app\build\intermediates\pre-dexed\debug\ibmpush-f5c26544ec44356628818de9ce543b45a98a25f1.jar"
+        jar="C:\AndroidStudioProjects\DealMania\app\libs\ibmpush.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c0c91bd2bfad787f3dc274ef0ee7ca20e9e93bd9"/>
+    <item
+        dex="C:\AndroidStudioProjects\DealMania\app\build\intermediates\pre-dexed\debug\ibmbluemix-da7b7c7992d7a3bdeee547518f02f17bacf1f0ce.jar"
+        jar="C:\AndroidStudioProjects\DealMania\app\libs\ibmbluemix.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="190119fc27a2c8dd4ab38107b9b8c9876a25cdb5"/>
+
+</pre-dex-items>

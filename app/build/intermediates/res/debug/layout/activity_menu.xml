@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.ibm.techathon.dealmania.MenuActivity">
+
+    <ScrollView android:id="@+id/menu_form" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:id="@+id/menu_layout_form" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+            <Button android:id="@+id/menu_subscribe_button" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="@string/action_show_subscribe"
+                android:textStyle="bold" />
+            <Button android:id="@+id/menu_subscribe_search_button" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="@string/action_show_subscribe_search"
+                android:textStyle="bold" />
+            <Button android:id="@+id/menu_show_shared" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="@string/action_show_shared"
+                android:textStyle="bold" />
+            <Button android:id="@+id/menu_search_offers" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="@string/action_show_coupons"
+                android:textStyle="bold" />
+            <!--<Button android:id="@+id/menu_search_button" style="?android:textAppearanceSmall"-->
+                <!--android:layout_width="match_parent" android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="16dp" android:text="@string/action_show_post"-->
+                <!--android:textStyle="bold" />-->
+            <Button android:id="@+id/menu_post_button" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="@string/action_show_search"
+                android:textStyle="bold" />
+            <Button android:id="@+id/menu_notify_button" style="?android:textAppearanceSmall"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:text="@string/action_notify"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
+<!-- From: file:/C:/AndroidStudioProjects/DealMania/app/src/main/res/layout/activity_menu.xml -->
